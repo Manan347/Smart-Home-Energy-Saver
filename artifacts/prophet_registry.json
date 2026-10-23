@@ -1,0 +1,92 @@
+{
+  "Air Conditioning": {
+    "model_path": "prophet_air_conditioning.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Computer": {
+    "model_path": "prophet_computer.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Dishwasher": {
+    "model_path": "prophet_dishwasher.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Fridge": {
+    "model_path": "prophet_fridge.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Heater": {
+    "model_path": "prophet_heater.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Lights": {
+    "model_path": "prophet_lights.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Microwave": {
+    "model_path": "prophet_microwave.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Oven": {
+    "model_path": "prophet_oven.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "TV": {
+    "model_path": "prophet_tv.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  },
+  "Washing Machine": {
+    "model_path": "prophet_washing_machine.pkl",
+    "regressors": [
+      "avg_temp",
+      "hh_size",
+      "is_weekend"
+    ],
+    "split_date": "2023-10-20"
+  }
+}

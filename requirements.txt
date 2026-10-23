@@ -1,0 +1,33 @@
+numpy
+pandas
+python-dateutil
+
+# Machine Learning and Feature Engineering
+scikit-learn
+joblib
+prophet
+
+# Visualization
+matplotlib
+plotly
+
+# FastAPI for backend inference API
+fastapi
+uvicorn
+
+# Agent Framework and OpenAI
+agent-framework
+openai
+
+# Azure Blob Storage SDK for deployment
+azure-storage-blob
+
+# Pydantic for email validation
+pydantic[email]
+
+# Environment management
+python-dotenv
+
+# Optimization and Streamlit
+optuna
+streamlit
